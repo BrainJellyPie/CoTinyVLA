@@ -1,0 +1,12 @@
+torch>=2.6
+transformers
+accelerate
+numpy
+pandas
+Pillow
+pyarrow
+imageio[ffmpeg]
+safetensors
+robosuite
+scikit-image
+wand
