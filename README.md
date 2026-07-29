@@ -237,3 +237,29 @@ The final CoTinyVLA checkpoint is hosted on Hugging Face:
 Download it with:
 
     hf download euphoria-64/CoTinyVLA-Qwen3.5-0.8B --local-dir checkpoints/cotinyvla
+
+<!-- CITATION_START -->
+## Paper
+
+**CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model**
+
+Minhyeok Lee, Chiyoung Kim, Chanhoe Gu, Seongrok Kim, Sanghyuk Roy Choi,
+Donghwan Hwang, Donghun Ryu, and Seokhyun Kim.
+
+- arXiv: https://arxiv.org/abs/2607.25487
+- DOI: https://doi.org/10.48550/arXiv.2607.25487
+- Model checkpoint: https://huggingface.co/euphoria-64/CoTinyVLA-Qwen3.5-0.8B
+
+## Citation
+
+Please cite the following paper when using this repository:
+
+<pre><code>@article{lee2026cotinyvla,
+  title   = {CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model},
+  author  = {Lee, Minhyeok and Kim, Chiyoung and Gu, Chanhoe and Kim, Seongrok and Choi, Sanghyuk Roy and Hwang, Donghwan and Ryu, Donghun and Kim, Seokhyun},
+  journal = {arXiv preprint arXiv:2607.25487},
+  year    = {2026},
+  doi     = {10.48550/arXiv.2607.25487},
+  url     = {https://arxiv.org/abs/2607.25487}
+}</code></pre>
+<!-- CITATION_END -->

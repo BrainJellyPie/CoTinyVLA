@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use CoTinyVLA, please cite the associated paper."
+title: "CoTinyVLA"
+type: software
+version: 1.0.2
+date-released: 2026-07-28
+license: Apache-2.0
+repository-code: "https://github.com/BrainJellyPie/CoTinyVLA"
+url: "https://huggingface.co/euphoria-64/CoTinyVLA-Qwen3.5-0.8B"
+
+authors:
+  - family-names: "Lee"
+    given-names: "Minhyeok"
+  - family-names: "Kim"
+    given-names: "Chiyoung"
+  - family-names: "Gu"
+    given-names: "Chanhoe"
+  - family-names: "Kim"
+    given-names: "Seongrok"
+  - family-names: "Choi"
+    given-names: "Sanghyuk Roy"
+  - family-names: "Hwang"
+    given-names: "Donghwan"
+  - family-names: "Ryu"
+    given-names: "Donghun"
+  - family-names: "Kim"
+    given-names: "Seokhyun"
+
+preferred-citation:
+  type: article
+  title: "CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model"
+  authors:
+    - family-names: "Lee"
+      given-names: "Minhyeok"
+    - family-names: "Kim"
+      given-names: "Chiyoung"
+    - family-names: "Gu"
+      given-names: "Chanhoe"
+    - family-names: "Kim"
+      given-names: "Seongrok"
+    - family-names: "Choi"
+      given-names: "Sanghyuk Roy"
+    - family-names: "Hwang"
+      given-names: "Donghwan"
+    - family-names: "Ryu"
+      given-names: "Donghun"
+    - family-names: "Kim"
+      given-names: "Seokhyun"
+  journal: "arXiv"
+  year: 2026
+  doi: "10.48550/arXiv.2607.25487"
+  url: "https://arxiv.org/abs/2607.25487"
